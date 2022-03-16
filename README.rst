@@ -7,7 +7,7 @@ structured.
 To get started, you can either `use this template`__ to create a new GitHub
 project, or clone the repository to manually set up the new project.
 
-__ https://github.com/astro-ph/glass-extension/generate
+__ https://github.com/glass-dev/glass-extension/generate
 
 As a rule, a good project name is ``glass-MODULE``, where ``MODULE`` is the name
 of the extension module you are creating.  This corresponds to the
