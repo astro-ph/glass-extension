@@ -2,14 +2,14 @@
 # license: MIT
 '''GLASS module for extension'''
 
-__version__ = '2022.10.5'
+__version__ = '2022.10.6'
 
 
 # non-GLASS imports
 import logging
 
 from glass.generator import generator
-from glass.sim import ZMIN, ZMAX
+from glass.cosmology import ZMIN, ZMAX
 # ... other GLASS imports (don't forget to add requirements if extensions)
 
 logger = logging.getLogger(__name__)
