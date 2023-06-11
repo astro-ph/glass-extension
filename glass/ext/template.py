@@ -1,9 +1,6 @@
 # author: Author Name <author_email@example.com>
 # license: MIT
-'''GLASS module for extension'''
-
-__version__ = '2023.1'
-
+'''GLASS extension template'''
 
 # your code here
 ...
