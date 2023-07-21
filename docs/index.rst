@@ -10,7 +10,7 @@ A real extension would have some introductory text here.  It would probably
 also use its own logo in the corner of the page.
 
 __ https://glass.readthedocs.io
-__ https://github.com/glass-dev/glas.ext.template
+__ https://github.com/glass-dev/glass.ext.template
 
 
 =================
