@@ -1,6 +1,6 @@
 # Update AT LEAST the commented fields, then remove the comments.
 # This is just ONE EXAMPLE of a working config, the options are endless.
-# Even a plain old setup.py will work fine if used correcyly.
+# Even a plain old setup.py will work fine if used correctly.
 
 [build-system]                              # build system: template default
 requires = ["hatchling", "hatch-vcs"]       # is the modern backend "hatch"
@@ -11,11 +11,11 @@ name = "glass.ext.helloworld"               # change to glass.ext.<yourname>
 description = "GLASS extension template"    # change to your description
 readme = "README.md"
 requires-python = ">=3.6"                   # update according to end-of-life
-license = { file = "LICENSE.txt" }          # update this file
+license = "MIT"                             # update if necessary
 maintainers = [                             # update with your author list
     { name = "Author Name", email = "author@example.com" },
 ]
-classifiers = [
+classifiers = [                             # update if necessary
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
