@@ -12,7 +12,7 @@ description = "GLASS extension template"    # change to your description
 readme = "README.md"
 requires-python = ">=3.6"                   # update according to end-of-life
 license = "MIT"                             # update if necessary
-maintainers = [                             # update with your author list
+authors = [                                 # update with your author list
     { name = "Author Name", email = "author@example.com" },
 ]
 classifiers = [                             # update if necessary
